@@ -2,8 +2,13 @@
 
 > **Revolusi Pertanian 4.0: Platform Ekosistem Agrikultur Terintegrasi dari Hulu (IoT & AI) hingga Hilir (B2B Supply Chain).**
 
+<<<<<<< HEAD
 ![Hero Banner](docs/hero-banner.png) 
 *(Ganti dengan screenshot Hero Section Anda)*
+=======
+![Central Melon Banner](<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/6af09c04-1259-4885-8648-981948a90629" />
+)
+>>>>>>> 671da1129d53d3851b6a9635b820d98edbfe92ad
 
 [![Vercel Deploy](https://deploy.vercel.com/button)](https://central-melon.vercel.app) 
 **[Lihat Live Demo Aplikasi](https://central-melon.vercel.app)**
@@ -82,5 +87,10 @@ Ikuti langkah ini untuk menjalankan proyek di komputer Anda.
 
 ### 1. Clone Repository
 ```bash
+<<<<<<< HEAD
 git clone [https://github.com/Rafiqalha/centralmelon-smartfarm.git](https://github.com/Rafiqalha/centralmelon-smartfarm.git)
 cd central-melon
+=======
+git clone [https://github.com/Rafiqalha/CentralMelon-SmartFarm.git](https://github.com/Rafiqalha/CentralMelon-SmartFarm.git)
+cd central-melon
+>>>>>>> 671da1129d53d3851b6a9635b820d98edbfe92ad
